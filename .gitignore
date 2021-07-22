@@ -1,0 +1,8 @@
+edk2/
+edk2-platforms/
+disk.dmg
+debug.log
+compile_commands.json
+.cache/
+.vscode/
+Build/
