@@ -1,3 +1,5 @@
+@echo off
+
 git config am.keepcr              true
 git config am.signoff             true
 git config cherry-pick.signoff    true
