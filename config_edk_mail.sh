@@ -19,4 +19,4 @@ git config sendemail.chainreplyto false
 git config sendemail.thread       true
 git config sendemail.to           devel@edk2.groups.io
 git config --global user.name     "Pedro Falcato"
-
+git config sendemail.transferEncoding 8bit

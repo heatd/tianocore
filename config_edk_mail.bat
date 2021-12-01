@@ -18,3 +18,4 @@ git config notes.rewriteRef       refs/notes/commits
 git config sendemail.chainreplyto false
 git config sendemail.thread       true
 git config sendemail.to           devel@edk2.groups.io
+git config sendemail.transferEncoding 8bit
